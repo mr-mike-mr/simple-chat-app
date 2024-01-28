@@ -24,4 +24,4 @@ errno,
 threading,
 tk,
 ttk,
-requests,
+requests
