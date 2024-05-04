@@ -3,6 +3,7 @@ Simple and unencrypted python chat application with gui and cli version.
 
 # project info
 The program has no support!!!
+This is 2yer old project!
 The database uses sqlite3.
 The main programming language is python.
 
